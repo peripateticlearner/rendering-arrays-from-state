@@ -1,0 +1,44 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1d428a; /* NBA Blue */
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Main Title */
+h1 {
+  color: #f44336; /* NBA Red */
+  text-transform: uppercase;
+}
+
+/* Learner (Player) Card */
+.learner {
+  background: white;
+  color: black;
+  padding: 10px;
+  margin: 10px auto;
+  border: 2px solid #f44336; /* NBA Red */
+  border-radius: 5px;
+  width: 80%;
+}
+
+/* Learner Name */
+.learner h2 {
+  color: #1d428a;
+  font-size: 20px;
+}
+
+/* Score List */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #f44336; /* NBA Red */
+  padding: 5px;
+  margin: 5px 0;
+  color: white;
+}
