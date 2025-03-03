@@ -1,7 +1,7 @@
 /* General Styles */
 body {
   font-family: Arial, sans-serif;
-  background-color: #1d428a; /* NBA Blue */
+  background-color: #1d428a;
   color: white;
   text-align: center;
   padding: 20px;
@@ -9,17 +9,17 @@ body {
 
 /* Main Title */
 h1 {
-  color: #f44336; /* NBA Red */
+  color: #f44336; 
   text-transform: uppercase;
 }
 
-/* Learner (Player) Card */
+/* Player Card */
 .learner {
   background: white;
   color: black;
   padding: 10px;
   margin: 10px auto;
-  border: 2px solid #f44336; /* NBA Red */
+  border: 2px solid #f44336;
   border-radius: 5px;
   width: 80%;
 }
@@ -37,7 +37,7 @@ ul {
 }
 
 li {
-  background: #f44336; /* NBA Red */
+  background: #f44336; 
   padding: 5px;
   margin: 5px 0;
   color: white;
